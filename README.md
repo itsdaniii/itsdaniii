@@ -25,13 +25,13 @@ In a prior life, I was a Bachelor of Commerce (Honours) graduate and a CPA-desig
 
 A bit about me:
 
-- :computer: My focus is software engineering, human-computer interaction, and data analytics
-- :dart: I have a deep interest for designing customer-centric solutions and deriving tangible value from data through technology
-- :zap: I am currently proficient in Java (advanced level), and Python/HTML (beginner level) 
-- :books: I am currently learning C++ and SQL
+- :computer: My focus is software engineering, human-computer interaction, and spotlighting coded bias
+- :dart: I have a deep interest for designing inclusive customer-centric solutions and deriving tangible value from data through technology
+- :zap: I am currently proficient in Java (advanced level), and HTML/C++/JavaScript (beginner level) 
+- :books: I am currently learning Python and SQL
 - :jigsaw: I love solving puzzles, running, yoga, interior design, scrapbooking and baking
 - :speech_balloon: Talk to me about Marvel, the Vancouver Canucks and travelling!
 
-I am currently looking for a 2022 Summer Internship.
+I am currently looking for a 2022 Summer Internship in software development or product management.
 
 I would love to connect via LinkedIn to chat about potential opportunities: https://www.linkedin.com/in/limdanielle/
