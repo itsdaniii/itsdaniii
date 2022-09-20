@@ -27,9 +27,9 @@ A bit about me:
 
 - :computer: My focus is software engineering, human-computer interaction, and spotlighting coded bias
 - :dart: I have a deep interest for designing inclusive customer-centric solutions and deriving tangible value from data through technology
-- :zap: I am currently proficient in Java, C++, HTML/CSS, and JavaScript
-- :books: I am currently learning Python and SQL
-- :jigsaw: I love solving puzzles, running, yoga, interior design, scrapbooking and baking
+- :zap: I am currently proficient in Java, C++, C, HTML and CSS
+- :books: I am currently learning JavaScript, Python and SQL
+- :jigsaw: I love solving puzzles, tennis, yoga, interior design, scrapbooking and baking
 - :speech_balloon: Talk to me about Marvel, the Vancouver Canucks and travelling!
 
 I would love to connect via LinkedIn to chat about potential opportunities: https://www.linkedin.com/in/limdanielle/
