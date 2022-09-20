@@ -29,7 +29,7 @@ A bit about me:
 - :dart: I have a deep interest for designing inclusive customer-centric solutions and deriving tangible value from data through technology
 - :zap: I am currently proficient in Java, C++, C, HTML and CSS
 - :books: I am currently learning JavaScript, Python and SQL
-- :jigsaw: I love solving puzzles, tennis, yoga, interior design, scrapbooking and baking
+- :jigsaw: I love solving puzzles, playing tennis, doing yoga, and dabbling in interior design, scrapbooking and baking
 - :speech_balloon: Talk to me about Marvel, the Vancouver Canucks and travelling!
 
 I would love to connect via LinkedIn to chat about potential opportunities: https://www.linkedin.com/in/limdanielle/
