@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 emoji reference sheet: https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 -->
 
-My name is Danielle (she/her). I am a third-year Bachelor of Computer Science student (a second-degree program) at the University of British Columbia. 
+My name is Danielle (she/her). I am a fourth-year Bachelor of Computer Science student (a second-degree program) at the University of British Columbia. 
 
 In a prior life, I was a Bachelor of Commerce (Honours) graduate and a CPA-designated public accountant.
 
