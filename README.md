@@ -27,7 +27,7 @@ A bit about me:
 
 - :computer: My focus is software engineering, human-computer interaction, and spotlighting coded bias
 - :dart: I have a deep interest for designing inclusive customer-centric solutions and deriving tangible value from data through technology
-- :zap: I am currently proficient in Java, JavaScript (Vue.js, TypeScript.js), C++, HTML/CSS and SQL
+- :zap: I am currently proficient in Java, JavaScript (Vue.js, TypeScript.js), C++, HTML/CSS, Ruby on Rails and SQL
 - :jigsaw: I love solving puzzles, playing tennis, skiing, and dabbling in interior design and baking
 - :speech_balloon: Talk to me about Marvel, the Vancouver Canucks and travelling!
 
