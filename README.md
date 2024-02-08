@@ -21,14 +21,14 @@ emoji reference sheet: https://github.com/ikatyang/emoji-cheat-sheet/blob/master
 
 My name is Danielle (she/her). I am a fourth-year Bachelor of Computer Science student (a second-degree program) at the University of British Columbia. 
 
-In a prior life, I was a Bachelor of Commerce (Honours) graduate and a CPA-designated public accountant.
+Previously, I was a Bachelor of Commerce (Honours) graduate and a CPA-designated public accountant.
 
 A bit about me:
 
-- :computer: My focus is software engineering, human-computer interaction, and spotlighting coded bias
+- :computer: My focus is full-stack software engineering, human-computer interaction, and spotlighting coded bias
 - :dart: I have a deep interest for designing inclusive customer-centric solutions and deriving tangible value from data through technology
-- :zap: I am currently proficient in Java, JavaScript (Vue.js, TypeScript.js), C++, HTML/CSS, Ruby on Rails and SQL
-- :jigsaw: I love solving puzzles, playing tennis, skiing, and dabbling in interior design and baking
+- :zap: I am currently proficient in Java, JavaScript (React, Vue.js, TypeScript), C++, HTML/CSS, Ruby on Rails and SQL
+- :jigsaw: I love solving puzzles, playing tennis, skiing, and venturing into interior design
 - :speech_balloon: Talk to me about Marvel, the Vancouver Canucks and travelling!
 
 I would love to connect via LinkedIn to chat about potential opportunities: https://www.linkedin.com/in/limdanielle/
